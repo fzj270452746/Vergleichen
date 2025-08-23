@@ -1,0 +1,6 @@
+framework module Pods_Vergleichen {
+  umbrella header "Pods-Vergleichen-umbrella.h"
+
+  export *
+  module * { export * }
+}

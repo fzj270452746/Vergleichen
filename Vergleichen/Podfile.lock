@@ -1,0 +1,30 @@
+PODS:
+  - Adjust (5.4.1):
+    - Adjust/Adjust (= 5.4.1)
+  - Adjust/Adjust (5.4.1):
+    - AdjustSignature (= 3.47.0)
+  - AdjustSignature (3.47.0)
+  - Kingfisher (8.4.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - Adjust
+  - Kingfisher
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AdjustSignature
+    - Kingfisher
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Adjust: 1ff981e84ae1306f8cce30e0661b3997dad1b85c
+  AdjustSignature: d634fc6b66295c38807f3b4e50978c1f72355950
+  Kingfisher: b14cc47bbfa7a3c150dd12962ee9c86338545629
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: ac7c5d9f368b0f49e29925cf80a072a350ac04b6
+
+COCOAPODS: 1.16.2

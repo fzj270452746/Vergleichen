@@ -1,0 +1,6 @@
+framework module VergleichenVorisnDorms {
+  umbrella header "VergleichenVorisnDorms.h"
+  export *
+
+  module * { export * }
+}
