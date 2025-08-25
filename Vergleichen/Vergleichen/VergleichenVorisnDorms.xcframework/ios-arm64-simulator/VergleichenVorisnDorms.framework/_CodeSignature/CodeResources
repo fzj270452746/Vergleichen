@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		rrBxQYttKtcuXBdMdBWVmzy1RR8=
+		AeNA8aP/1NGjlEMkaq0oOgujEnk=
 		</data>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wE1TPGKRRrOGPu2eFPIV+Cpgxr8=
+		FHnx5FM9VBma1SjNTnrj7EL8ITE=
 		</data>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wE1TPGKRRrOGPu2eFPIV+Cpgxr8=
+		FHnx5FM9VBma1SjNTnrj7EL8ITE=
 		</data>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0rQ2J3IWHg9YS4oyvfJHxI3dRac=
+		yT/yJjWn41ICEhMeC0xwsDNc6EI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,22 +69,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rrBxQYttKtcuXBdMdBWVmzy1RR8=
+			AeNA8aP/1NGjlEMkaq0oOgujEnk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xvr5pIBWPPkwyrdfZ51Z4fWSd0HJCsOz3+jrjtaoaOo=
+			NL5q3GrbfdhgXOjhu+Wm/eiya55vxjHN+Sjb/p9Prik=
 			</data>
 		</dict>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wE1TPGKRRrOGPu2eFPIV+Cpgxr8=
+			FHnx5FM9VBma1SjNTnrj7EL8ITE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/M1IRGNU5ECXD4RlgTSelVVGCRRqy300k0nt5zXjs9g=
+			WxKglQSBQgzsXCegiKxGD1z14T1QxOeAowAJWngx69c=
 			</data>
 		</dict>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wE1TPGKRRrOGPu2eFPIV+Cpgxr8=
+			FHnx5FM9VBma1SjNTnrj7EL8ITE=
 			</data>
 			<key>hash2</key>
 			<data>
-			/M1IRGNU5ECXD4RlgTSelVVGCRRqy300k0nt5zXjs9g=
+			WxKglQSBQgzsXCegiKxGD1z14T1QxOeAowAJWngx69c=
 			</data>
 		</dict>
 		<key>Modules/VergleichenVorisnDorms.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0rQ2J3IWHg9YS4oyvfJHxI3dRac=
+			yT/yJjWn41ICEhMeC0xwsDNc6EI=
 			</data>
 			<key>hash2</key>
 			<data>
-			rX6lqLhFRjaYp7za7xEJTDnnA/Ut7vDDZYylAGwApsI=
+			upMNxygymgk+X0yK5g1sI7zEFjrz2YYA98ajKmFtjF4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

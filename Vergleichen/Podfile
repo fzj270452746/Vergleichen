@@ -7,6 +7,5 @@ target 'Vergleichen' do
 
   # Pods for Vergleichen
 pod 'SnapKit'
-pod 'Adjust'
 pod 'Kingfisher'
 end

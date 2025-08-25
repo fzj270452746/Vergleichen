@@ -24,7 +24,5 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>We will use your data to provide a better and personalized ad experience.</string>
 </dict>
 </plist>

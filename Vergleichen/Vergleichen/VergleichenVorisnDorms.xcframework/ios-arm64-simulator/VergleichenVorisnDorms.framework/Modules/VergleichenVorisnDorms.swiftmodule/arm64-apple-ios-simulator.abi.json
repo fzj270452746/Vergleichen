@@ -6,6 +6,993 @@
     "children": [
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VergleichenVorisnDorms"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VergleichenVorisnDorms"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VergleichenUsjeiPleoak",
+        "printedName": "VergleichenUsjeiPleoak",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "vergleichenHerume",
+            "printedName": "vergleichenHerume",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenTndjs",
+            "printedName": "vergleichenTndjs",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenDasor",
+            "printedName": "vergleichenDasor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenOuefka",
+            "printedName": "vergleichenOuefka",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenGVwppq",
+            "printedName": "vergleichenGVwppq",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 4,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenMoaiue",
+            "printedName": "vergleichenMoaiue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "vergleichenVoedle",
+            "printedName": "vergleichenVoedle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvp",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvp",
+            "moduleName": "VergleichenVorisnDorms",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvg",
+                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(vergleichenHerume:vergleichenTndjs:vergleichenDasor:vergleichenOuefka:vergleichenGVwppq:vergleichenMoaiue:vergleichenVoedle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VergleichenUsjeiPleoak",
+                "printedName": "VergleichenVorisnDorms.VergleichenUsjeiPleoak",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerume0F5Tndjs0F5Dasor0F6Ouefka0F6GVwppq0F6Moaiue0F6VoedleACSSSg_A6Ktcfc",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerume0F5Tndjs0F5Dasor0F6Ouefka0F6GVwppq0F6Moaiue0F6VoedleACSSSg_A6Ktcfc",
+            "moduleName": "VergleichenVorisnDorms",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VergleichenUsjeiPleoak",
+                "printedName": "VergleichenVorisnDorms.VergleichenUsjeiPleoak",
+                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "VergleichenVorisnDorms",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV6encode2toys7Encoder_p_tKF",
+            "moduleName": "VergleichenVorisnDorms",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV",
+        "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV",
+        "moduleName": "VergleichenVorisnDorms",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VergleichenNetworkError",
+        "printedName": "VergleichenNetworkError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "invalidURL",
+            "printedName": "invalidURL",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VergleichenNetworkError",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VergleichenNetworkError",
+                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO10invalidURLyA2CmF",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO10invalidURLyA2CmF",
+            "moduleName": "VergleichenVorisnDorms",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "invalidResponse",
+            "printedName": "invalidResponse",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VergleichenNetworkError",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VergleichenNetworkError",
+                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO15invalidResponseyA2CmF",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO15invalidResponseyA2CmF",
+            "moduleName": "VergleichenVorisnDorms",
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "invalidData",
+            "printedName": "invalidData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VergleichenNetworkError",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VergleichenNetworkError",
+                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO11invalidDatayA2CmF",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO11invalidDatayA2CmF",
+            "moduleName": "VergleichenVorisnDorms",
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VergleichenNetworkError",
+                "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VergleichenNetworkError",
+                "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
+                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "VergleichenVorisnDorms",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivp",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivp",
+            "moduleName": "VergleichenVorisnDorms",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivg",
+                "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivg",
+                "moduleName": "VergleichenVorisnDorms",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "VergleichenVorisnDorms",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO",
+        "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO",
+        "moduleName": "VergleichenVorisnDorms",
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "VergleichenYhsjeBrua",
+        "printedName": "VergleichenYhsjeBrua()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:22VergleichenVorisnDorms0A9YhsjeBruaSbyF",
+        "mangledName": "$s22VergleichenVorisnDorms0A9YhsjeBruaSbyF",
+        "moduleName": "VergleichenVorisnDorms",
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Function",
+        "name": "VergleichenCoriuwNus",
+        "printedName": "VergleichenCoriuwNus()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:22VergleichenVorisnDorms0A9CoriuwNusSbyF",
+        "mangledName": "$s22VergleichenVorisnDorms0A9CoriuwNusSbyF",
+        "moduleName": "VergleichenVorisnDorms",
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1565,13 +2552,6 @@
         "moduleName": "VergleichenVorisnDorms"
       },
       {
-        "kind": "Import",
-        "name": "AdjustSdk",
-        "printedName": "AdjustSdk",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
         "kind": "Function",
         "name": "dpt",
         "printedName": "dpt(_:)",
@@ -1917,195 +2897,6 @@
         "funcSelfKind": "NonMutating"
       },
       {
-        "kind": "Var",
-        "name": "Nam",
-        "printedName": "Nam",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms3NamSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms3NamSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "DT",
-        "printedName": "DT",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms2DTSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms2DTSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "UL",
-        "printedName": "UL",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms2ULSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms2ULSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Function",
-        "name": "VergleichenOushgh",
-        "printedName": "VergleichenOushgh(_:etDic:)",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Void",
-            "printedName": "()"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
-          }
-        ],
-        "declKind": "Func",
-        "usr": "s:22VergleichenVorisnDorms0A6Oushgh_5etDicySDyS2SG_ADtF",
-        "mangledName": "$s22VergleichenVorisnDorms0A6Oushgh_5etDicySDyS2SG_ADtF",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "RawDocComment"
-        ],
-        "funcSelfKind": "NonMutating"
-      },
-      {
-        "kind": "Function",
-        "name": "VergleichenFrposmsTkmn",
-        "printedName": "VergleichenFrposmsTkmn(_:_:)",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Void",
-            "printedName": "()"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
-          },
-          {
-            "kind": "TypeNominal",
-            "name": "Dictionary",
-            "printedName": "[Swift.String : Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:SD"
-          }
-        ],
-        "declKind": "Func",
-        "usr": "s:22VergleichenVorisnDorms0A11FrposmsTkmnyySDyS2SG_ACtF",
-        "mangledName": "$s22VergleichenVorisnDorms0A11FrposmsTkmnyySDyS2SG_ACtF",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "funcSelfKind": "NonMutating"
-      },
-      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -2123,20 +2914,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "Import",
-        "name": "AppTrackingTransparency",
-        "printedName": "AppTrackingTransparency",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "Import",
-        "name": "AdjustSdk",
-        "printedName": "AdjustSdk",
         "declKind": "Import",
         "moduleName": "VergleichenVorisnDorms"
       },
@@ -2344,27 +3121,6 @@
             "funcSelfKind": "NonMutating"
           },
           {
-            "kind": "Function",
-            "name": "vergleicheGopeksSksie",
-            "printedName": "vergleicheGopeksSksie()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:22VergleichenVorisnDorms0A10OmrjgIrndbC21vergleicheGopeksSksieyyF",
-            "mangledName": "$s22VergleichenVorisnDorms0A10OmrjgIrndbC21vergleicheGopeksSksieyyF",
-            "moduleName": "VergleichenVorisnDorms",
-            "isOpen": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -2389,84 +3145,6 @@
               "Override"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "adjustEventTrackingSucceeded",
-            "printedName": "adjustEventTrackingSucceeded(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "AdjustSdk.ADJEventSuccess?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ADJEventSuccess",
-                    "printedName": "AdjustSdk.ADJEventSuccess",
-                    "usr": "c:objc(cs)ADJEventSuccess"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@VergleichenVorisnDorms@objc(cs)VergleichenOmrjgIrndb(im)adjustEventTrackingSucceeded:",
-            "mangledName": "$s22VergleichenVorisnDorms0A10OmrjgIrndbC28adjustEventTrackingSucceededyySo15ADJEventSuccessCSgF",
-            "moduleName": "VergleichenVorisnDorms",
-            "isOpen": true,
-            "objc_name": "adjustEventTrackingSucceeded:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adjustEventTrackingFailed",
-            "printedName": "adjustEventTrackingFailed(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "AdjustSdk.ADJEventFailure?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ADJEventFailure",
-                    "printedName": "AdjustSdk.ADJEventFailure",
-                    "usr": "c:objc(cs)ADJEventFailure"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@VergleichenVorisnDorms@objc(cs)VergleichenOmrjgIrndb(im)adjustEventTrackingFailed:",
-            "mangledName": "$s22VergleichenVorisnDorms0A10OmrjgIrndbC25adjustEventTrackingFailedyySo15ADJEventFailureCSgF",
-            "moduleName": "VergleichenVorisnDorms",
-            "isOpen": true,
-            "objc_name": "adjustEventTrackingFailed:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -2562,325 +3240,6 @@
         "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "Var",
-        "name": "VergleichenPtHSUS",
-        "printedName": "VergleichenPtHSUS",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Array",
-            "printedName": "[Swift.String]",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "usr": "s:Sa"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms0A6PtHSUSSaySSGvp",
-        "mangledName": "$s22VergleichenVorisnDorms0A6PtHSUSSaySSGvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "AccessControl"
-        ],
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diaChon",
-        "printedName": "diaChon",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms7diaChonSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms7diaChonSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "amt",
-        "printedName": "amt",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms3amtSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms3amtSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "chozh",
-        "printedName": "chozh",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms5chozhSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms5chozhSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "Brie",
-        "printedName": "Brie",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms4BrieSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms4BrieSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "hdrawo",
-        "printedName": "hdrawo",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms6hdrawoSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms6hdrawoSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "rams",
-        "printedName": "rams",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms4ramsSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms4ramsSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyicicho",
-        "printedName": "diyicicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms9diyicichoSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms9diyicichoSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "diyichCha",
-        "printedName": "diyichCha",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms9diyichChaSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms9diyichChaSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "geicho",
-        "printedName": "geicho",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms6geichoSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms6geichoSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "ren",
-        "printedName": "ren",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms3renSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms3renSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "aTc",
-        "printedName": "aTc",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms3aTcSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms3aTcSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
-      },
-      {
-        "kind": "Var",
-        "name": "OpWin",
-        "printedName": "OpWin",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "String",
-            "printedName": "Swift.String",
-            "usr": "s:SS"
-          }
-        ],
-        "declKind": "Var",
-        "usr": "s:22VergleichenVorisnDorms5OpWinSSvp",
-        "mangledName": "$s22VergleichenVorisnDorms5OpWinSSvp",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "HasInitialValue",
-          "HasStorage",
-          "RawDocComment"
-        ],
-        "isLet": true,
-        "hasStorage": true
       },
       {
         "kind": "TypeDecl",
@@ -3286,8 +3645,8 @@
           },
           {
             "kind": "Function",
-            "name": "userContentController",
-            "printedName": "userContentController(_:didReceive:)",
+            "name": "backTo",
+            "printedName": "backTo(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3296,23 +3655,46 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "WKUserContentController",
-                "printedName": "WebKit.WKUserContentController",
-                "usr": "c:objc(cs)WKUserContentController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKScriptMessage",
-                "printedName": "WebKit.WKScriptMessage",
-                "usr": "c:objc(cs)WKScriptMessage"
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenRjdudsViewController(im)userContentController:didReceiveScriptMessage:",
-            "mangledName": "$s22VergleichenVorisnDorms0A20RjdudsViewControllerC011userContentF0_10didReceiveySo06WKUserhF0C_So15WKScriptMessageCtF",
+            "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenRjdudsViewController(im)backTo:",
+            "mangledName": "$s22VergleichenVorisnDorms0A20RjdudsViewControllerC6backToyySo8UIButtonCF",
             "moduleName": "VergleichenVorisnDorms",
             "isOpen": true,
-            "objc_name": "userContentController:didReceiveScriptMessage:",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "webViewDidClose",
+            "printedName": "webViewDidClose(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKWebView",
+                "printedName": "WebKit.WKWebView",
+                "usr": "c:objc(cs)WKWebView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenRjdudsViewController(im)webViewDidClose:",
+            "mangledName": "$s22VergleichenVorisnDorms0A20RjdudsViewControllerC03webE8DidCloseyySo05WKWebE0CF",
+            "moduleName": "VergleichenVorisnDorms",
+            "isOpen": true,
+            "objc_name": "webViewDidClose:",
             "declAttributes": [
               "ObjC",
               "Preconcurrency",
@@ -3536,7 +3918,6 @@
           "Preconcurrency",
           "Custom",
           "AccessControl",
-          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)UIViewController",
@@ -4237,1982 +4618,6 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "VergleichenUsjeiPleoak",
-        "printedName": "VergleichenUsjeiPleoak",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "vergleichenMydias",
-            "printedName": "vergleichenMydias",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydiasSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydiasSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 0,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydiasSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydiasSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenHerume",
-            "printedName": "vergleichenHerume",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 1,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenHerumeSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenPoeahy",
-            "printedName": "vergleichenPoeahy",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "[Swift.String : Swift.String]?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Dictionary",
-                    "printedName": "[Swift.String : Swift.String]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:SD"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenPoeahySDyS2SGSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenPoeahySDyS2SGSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 2,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "[Swift.String : Swift.String]?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Dictionary",
-                        "printedName": "[Swift.String : Swift.String]",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          }
-                        ],
-                        "usr": "s:SD"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenPoeahySDyS2SGSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenPoeahySDyS2SGSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenTndjs",
-            "printedName": "vergleichenTndjs",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 3,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenTndjsSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenDasor",
-            "printedName": "vergleichenDasor",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 4,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV16vergleichenDasorSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenOuefka",
-            "printedName": "vergleichenOuefka",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 5,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenOuefkaSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenGVwppq",
-            "printedName": "vergleichenGVwppq",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 6,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenGVwppqSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenMoaiue",
-            "printedName": "vergleichenMoaiue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 7,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMoaiueSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenTdjoma",
-            "printedName": "vergleichenTdjoma",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.Int?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenTdjomaSiSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenTdjomaSiSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 8,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.Int?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Int",
-                        "printedName": "Swift.Int",
-                        "usr": "s:Si"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenTdjomaSiSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenTdjomaSiSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenVoedle",
-            "printedName": "vergleichenVoedle",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "declAttributes": [
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 9,
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenVoedleSSSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "declAttributes": [
-                  "Transparent"
-                ],
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(vergleichenMydias:vergleichenHerume:vergleichenPoeahy:vergleichenTndjs:vergleichenDasor:vergleichenOuefka:vergleichenGVwppq:vergleichenMoaiue:vergleichenTdjoma:vergleichenVoedle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "VergleichenUsjeiPleoak",
-                "printedName": "VergleichenVorisnDorms.VergleichenUsjeiPleoak",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "[Swift.String : Swift.String]?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Dictionary",
-                    "printedName": "[Swift.String : Swift.String]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:SD"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.Int?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydias0F6Herume0F6Poeahy0F5Tndjs0F5Dasor0F6Ouefka0F6GVwppq0F6Moaiue0F6Tdjoma0F6VoedleACSSSg_ANSDyS2SGSgA5NSiSgANtcfc",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV17vergleichenMydias0F6Herume0F6Poeahy0F5Tndjs0F5Dasor0F6Ouefka0F6GVwppq0F6Moaiue0F6Tdjoma0F6VoedleACSSSg_ANSDyS2SGSgA5NSiSgANtcfc",
-            "moduleName": "VergleichenVorisnDorms",
-            "implicit": true,
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(from:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "VergleichenUsjeiPleoak",
-                "printedName": "VergleichenVorisnDorms.VergleichenUsjeiPleoak",
-                "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Decoder",
-                "printedName": "any Swift.Decoder",
-                "usr": "s:s7DecoderP"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV4fromACs7Decoder_p_tKcfc",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV4fromACs7Decoder_p_tKcfc",
-            "moduleName": "VergleichenVorisnDorms",
-            "implicit": true,
-            "throwing": true,
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "encode",
-            "printedName": "encode(to:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Encoder",
-                "printedName": "any Swift.Encoder",
-                "usr": "s:s7EncoderP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV6encode2toys7Encoder_p_tKF",
-            "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV6encode2toys7Encoder_p_tKF",
-            "moduleName": "VergleichenVorisnDorms",
-            "implicit": true,
-            "throwing": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:22VergleichenVorisnDorms0A11UsjeiPleoakV",
-        "mangledName": "$s22VergleichenVorisnDorms0A11UsjeiPleoakV",
-        "moduleName": "VergleichenVorisnDorms",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "VergleichenNetworkError",
-        "printedName": "VergleichenNetworkError",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "invalidURL",
-            "printedName": "invalidURL",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "VergleichenNetworkError",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VergleichenNetworkError",
-                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO10invalidURLyA2CmF",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO10invalidURLyA2CmF",
-            "moduleName": "VergleichenVorisnDorms",
-            "fixedbinaryorder": 0
-          },
-          {
-            "kind": "Var",
-            "name": "invalidResponse",
-            "printedName": "invalidResponse",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "VergleichenNetworkError",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VergleichenNetworkError",
-                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO15invalidResponseyA2CmF",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO15invalidResponseyA2CmF",
-            "moduleName": "VergleichenVorisnDorms",
-            "fixedbinaryorder": 1
-          },
-          {
-            "kind": "Var",
-            "name": "invalidData",
-            "printedName": "invalidData",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(VergleichenVorisnDorms.VergleichenNetworkError.Type) -> VergleichenVorisnDorms.VergleichenNetworkError",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "VergleichenNetworkError",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                    "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "VergleichenVorisnDorms.VergleichenNetworkError.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VergleichenNetworkError",
-                        "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO11invalidDatayA2CmF",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO11invalidDatayA2CmF",
-            "moduleName": "VergleichenVorisnDorms",
-            "fixedbinaryorder": 2
-          },
-          {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "VergleichenNetworkError",
-                "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "VergleichenNetworkError",
-                "printedName": "VergleichenVorisnDorms.VergleichenNetworkError",
-                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO2eeoiySbAC_ACtFZ",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO2eeoiySbAC_ACtFZ",
-            "moduleName": "VergleichenVorisnDorms",
-            "static": true,
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Var",
-            "name": "hashValue",
-            "printedName": "hashValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivp",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivp",
-            "moduleName": "VergleichenVorisnDorms",
-            "implicit": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivg",
-                "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO9hashValueSivg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "hash",
-            "printedName": "hash(into:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Hasher",
-                "printedName": "Swift.Hasher",
-                "paramValueOwnership": "InOut",
-                "usr": "s:s6HasherV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO4hash4intoys6HasherVz_tF",
-            "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO4hash4intoys6HasherVz_tF",
-            "moduleName": "VergleichenVorisnDorms",
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:22VergleichenVorisnDorms0A12NetworkErrorO",
-        "mangledName": "$s22VergleichenVorisnDorms0A12NetworkErrorO",
-        "moduleName": "VergleichenVorisnDorms",
-        "isEnumExhaustive": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Error",
-            "printedName": "Error",
-            "usr": "s:s5ErrorP",
-            "mangledName": "$ss5ErrorP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "BitwiseCopyable",
-            "printedName": "BitwiseCopyable",
-            "usr": "s:s15BitwiseCopyableP",
-            "mangledName": "$ss15BitwiseCopyableP"
-          }
-        ]
-      },
-      {
-        "kind": "Function",
-        "name": "VergleichenYhsjeBrua",
-        "printedName": "VergleichenYhsjeBrua()",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Bool",
-            "printedName": "Swift.Bool",
-            "usr": "s:Sb"
-          }
-        ],
-        "declKind": "Func",
-        "usr": "s:22VergleichenVorisnDorms0A9YhsjeBruaSbyF",
-        "mangledName": "$s22VergleichenVorisnDorms0A9YhsjeBruaSbyF",
-        "moduleName": "VergleichenVorisnDorms",
-        "funcSelfKind": "NonMutating"
-      },
-      {
-        "kind": "Function",
-        "name": "VergleichenCoriuwNus",
-        "printedName": "VergleichenCoriuwNus()",
-        "children": [
-          {
-            "kind": "TypeNominal",
-            "name": "Bool",
-            "printedName": "Swift.Bool",
-            "usr": "s:Sb"
-          }
-        ],
-        "declKind": "Func",
-        "usr": "s:22VergleichenVorisnDorms0A9CoriuwNusSbyF",
-        "mangledName": "$s22VergleichenVorisnDorms0A9CoriuwNusSbyF",
-        "moduleName": "VergleichenVorisnDorms",
-        "funcSelfKind": "NonMutating"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "VergleichenVorisnDorms"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "VergleichenFormaOekleView",
-        "printedName": "VergleichenFormaOekleView",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "vergleichenNBheooa",
-            "printedName": "vergleichenNBheooa",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvs",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvs",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvM",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenNBheooayycSgvM",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenKoieaje",
-            "printedName": "vergleichenKoieaje",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "(() -> ())?",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "() -> ()",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
-                      }
-                    ]
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvg",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvg",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(() -> ())?",
-                    "children": [
-                      {
-                        "kind": "TypeFunc",
-                        "name": "Function",
-                        "printedName": "() -> ()",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Void",
-                            "printedName": "()"
-                          }
-                        ]
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvs",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvs",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvM",
-                "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenKoieajeyycSgvM",
-                "moduleName": "VergleichenVorisnDorms",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenGoroasNtys",
-            "printedName": "vergleichenGoroasNtys",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "ImplicitlyUnwrappedOptional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC21vergleichenGoroasNtys33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC21vergleichenGoroasNtys33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 2,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenHgsyeks",
-            "printedName": "vergleichenHgsyeks",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenHgsyeks33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC18vergleichenHgsyeks33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 3,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "vergleichenTodos",
-            "printedName": "vergleichenTodos",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIButton?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIButton",
-                    "printedName": "UIKit.UIButton",
-                    "usr": "c:objc(cs)UIButton"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC16vergleichenTodos33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC16vergleichenTodos33_F644724D1C0178B7E4A9A189E22F6EEFLLSo8UIButtonCSgvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 4,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "isMenuExpanded",
-            "printedName": "isMenuExpanded",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC14isMenuExpanded33_F644724D1C0178B7E4A9A189E22F6EEFLLSbvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC14isMenuExpanded33_F644724D1C0178B7E4A9A189E22F6EEFLLSbvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 5,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "animationDuration",
-            "printedName": "animationDuration",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC17animationDuration33_F644724D1C0178B7E4A9A189E22F6EEFLLSdvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC17animationDuration33_F644724D1C0178B7E4A9A189E22F6EEFLLSdvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 6,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "subButtonSize",
-            "printedName": "subButtonSize",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC13subButtonSize33_F644724D1C0178B7E4A9A189E22F6EEFLL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC13subButtonSize33_F644724D1C0178B7E4A9A189E22F6EEFLL12CoreGraphics7CGFloatVvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 7,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "spacing",
-            "printedName": "spacing",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:22VergleichenVorisnDorms0A14FormaOekleViewC7spacing33_F644724D1C0178B7E4A9A189E22F6EEFLL14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC7spacing33_F644724D1C0178B7E4A9A189E22F6EEFLL12CoreGraphics7CGFloatVvp",
-            "moduleName": "VergleichenVorisnDorms",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 8,
-            "isLet": true,
-            "hasStorage": true
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "VergleichenFormaOekleView",
-                "printedName": "VergleichenVorisnDorms.VergleichenFormaOekleView",
-                "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenFormaOekleView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenFormaOekleView(im)initWithFrame:",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "VergleichenVorisnDorms",
-            "overriding": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "RawDocComment"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "VergleichenVorisnDorms.VergleichenFormaOekleView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "VergleichenFormaOekleView",
-                    "printedName": "VergleichenVorisnDorms.VergleichenFormaOekleView",
-                    "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenFormaOekleView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenFormaOekleView(im)initWithCoder:",
-            "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "VergleichenVorisnDorms",
-            "overriding": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@VergleichenVorisnDorms@objc(cs)VergleichenFormaOekleView",
-        "mangledName": "$s22VergleichenVorisnDorms0A14FormaOekleViewC",
-        "moduleName": "VergleichenVorisnDorms",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -7032,6 +5437,20 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenExts.swift",
+      "kind": "FloatLiteral",
+      "offset": 1483,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenExts.swift",
+      "kind": "FloatLiteral",
+      "offset": 1778,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenGameView.swift",
       "kind": "Array",
       "offset": 240,
@@ -7083,219 +5502,65 @@
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 504,
+      "offset": 487,
       "length": 10,
       "value": "\"GTwyLSss\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 570,
+      "offset": 553,
       "length": 18,
       "value": "\"LCo5OzMdLj02LGI=\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 865,
+      "offset": 848,
       "length": 34,
       "value": "\"Dj0qPzQ9MTswPTYXGw4xMysMLTwoNT0r\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 987,
+      "offset": 970,
       "length": 30,
       "value": "\"Lj0qPzQ9MTswPTYTMT0yKww2KzAr\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 1195,
+      "offset": 1178,
       "length": 30,
       "value": "\"Lj0qPzQ9MTswPTYeKCkoFiszPSs=\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 1291,
+      "offset": 1274,
       "length": 82,
       "value": "\"MCwsKGJ3d25gOWFpbzlgOmlpbT1ub21vbj05bmhta3Y1NzszOSgxdjE3dw49Kj8xNnc5NiswPSEtKzY=\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 1484,
+      "offset": 1467,
       "length": 98,
       "value": "\"MCwsKCtid3cqOS92PzEsMC06LSs9Kjs3Niw9Nix2Ozc1dz4iMmpvaGxtam9sbncOPSo\/ND13NTkxNncOPSobNy49KnYoNj8=\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
       "kind": "StringLiteral",
-      "offset": 3148,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
-      "kind": "StringLiteral",
-      "offset": 3348,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
-      "kind": "StringLiteral",
-      "offset": 3364,
-      "length": 6,
-      "value": "\"data\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
-      "kind": "StringLiteral",
-      "offset": 3380,
-      "length": 5,
-      "value": "\"url\""
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenKients.swift",
-      "kind": "StringLiteral",
-      "offset": 5200,
+      "offset": 3131,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 279,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 330,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 375,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 422,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 479,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 535,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 585,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 642,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 692,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 739,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 785,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 831,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenRjdudsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4844,
+      "offset": 3229,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenExts.swift",
-      "kind": "FloatLiteral",
-      "offset": 1653,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenExts.swift",
-      "kind": "FloatLiteral",
-      "offset": 1948,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenFormaOekleView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 400,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenFormaOekleView.swift",
-      "kind": "FloatLiteral",
-      "offset": 442,
-      "length": 3,
-      "value": "0.3"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenFormaOekleView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 487,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/hades\/Desktop\/Code\/08\/0823-2\/VergleichenVorisnDorms\/VergleichenVorisnDorms\/VergleichenFormaOekleView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 525,
-      "length": 2,
-      "value": "10"
     }
   ]
 }
