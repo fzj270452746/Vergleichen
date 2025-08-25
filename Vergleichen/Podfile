@@ -7,5 +7,6 @@ target 'Vergleichen' do
 
   # Pods for Vergleichen
 pod 'SnapKit'
-pod 'Kingfisher'
+pod 'ReachabilitySwift'
+
 end

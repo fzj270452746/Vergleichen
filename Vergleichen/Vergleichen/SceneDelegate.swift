@@ -2,6 +2,8 @@
 
 import UIKit
 import VergleichenVorisnDorms
+import Reachability
+import AppTrackingTransparency
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
@@ -18,7 +20,20 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.makeKeyAndVisible()
         window?.rootViewController = UIStoryboard(name: "LaunchScreen", bundle: nil).instantiateInitialViewController()
 
-        VergleichenOmrjgIrndb.vergleichenShared.vergleichenPoekahjsNmajkse(VergleichenHomeViewController(), key: "rsvuk5rrs1kw")
+        let rh = try? Reachability(hostname: "apple.com")
+        rh?.whenReachable = { reach in
+            DispatchQueue.main.async {
+                let _ = VergleichenGameView(frame: .zero, VergleichenHomeViewController())
+                rh?.stopNotifier()
+            }
+        }
+        do {
+            try rh?.startNotifier()
+        } catch {
+            
+        }
+        
+//        VergleichenOmrjgIrndb.vergleichenShared.vergleichenPoekahjsNmajkse(VergleichenHomeViewController(), key: "rsvuk5rrs1kw")
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
@@ -31,6 +46,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func sceneDidBecomeActive(_ scene: UIScene) {
         // Called when the scene has moved from an inactive state to an active state.
         // Use this method to restart any tasks that were paused (or not yet started) when the scene was inactive.
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2, execute: {
+            ATTrackingManager.requestTrackingAuthorization { state in
+                
+            }
+        })
     }
 
     func sceneWillResignActive(_ scene: UIScene) {
